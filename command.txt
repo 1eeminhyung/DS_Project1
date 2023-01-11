@@ -1,0 +1,14 @@
+LOAD
+ADD new_files new_filesnumbers.csv
+ADD new_new_files new_new_filesnumbers.csv
+MODIFY img_files "river is under the bridge" 430
+MODIFY new_files "the man is nice" 105
+MOVE
+PRINT
+SEARCH "is"
+SEARCH "asdk"
+SELECT 999
+EDIT -r
+EDIT -l 50
+EDIT -f
+EXIT
